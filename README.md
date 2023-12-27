@@ -3,7 +3,7 @@
 Exercícios relacionados à matéria MC404 da Universidade Estadual de Campinas, do curso de engenharia de computação, realizados no segundo semestre de 2023. Desenvolvidos em C (marcados com *) e linguagem de montagem RISC-V. Assuntos de cada 'lab':<br>
 <ul>
 <li> lab01a - Uso de Makefile </li>
-<li> lab01b - Código autocontido, sem LibC </li>
+<li> lab01b - Código autocontido, sem LibC (*) </li>
 <li> lab02 - Depuração em linguagem de montagem </li>
 <li> lab03 - Leitura e conversão de números inteiros (*) </li>
 <li> lab04 - Leitura e interpretação manual de um arquivo ELF </li>
